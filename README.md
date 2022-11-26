@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @gamercat9000
-- 🌱 I’m currently learning Java Javasctipt Lua Html Py
-- 📫 How to reach me is you dont
+- 🌱 I’m currently learning a little bit of everything
+- 📃 Heres my dumb projects
